@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shrutiD20
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN stack 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shruti-d-315b03270)
 - I'm passionate about technology, always eager to learn, and excited to contribute to projects that make a difference. Let's connect and build something amazing together!
